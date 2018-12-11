@@ -1,0 +1,30 @@
+{
+  "name": "tinymeetup-docs",
+  "version": "1.0.0",
+  "description": "Documentation for people starting and running a meetup.",
+  "main": "README.md",
+  "scripts": {
+    "precommit": "npm run toc",
+    "toc": "doctoc ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinymeetup/tinymeetup-docs.git"
+  },
+  "keywords": [
+    "docs",
+    "tinymeetup",
+    "meetup"
+  ],
+  "author": "flpvsk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinymeetup/tinymeetup-docs/issues"
+  },
+  "homepage": "https://github.com/tinymeetup/tinymeetup-docs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "husky": "^1.2.0"
+  }
+}
