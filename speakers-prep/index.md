@@ -2,6 +2,8 @@
 
 [tinymeetup docs](../README.md)
 
+## Table of contents
+
 <!-- START doctoc -->
 <!-- END doctoc -->
 

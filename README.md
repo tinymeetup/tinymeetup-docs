@@ -9,6 +9,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Motivation](#motivation)
 - [Requesting help or information](#requesting-help-or-information)
 - [Contributing](#contributing)
 - [Docs](#docs)
