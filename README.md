@@ -3,6 +3,8 @@
 
 ![tinymeetup logo](./images/tinymeetup-logo-120w.png)
 
+## Table of contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -14,6 +16,8 @@
   - [Information for speakers](#information-for-speakers)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Motivation
 
 This is a knowledge base for community organizers. Here you can find
 information on topics like:
