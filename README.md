@@ -64,21 +64,22 @@ or join the conversation in
       ([write an article](https://github.com/tinymeetup/tinymeetup-docs/new/master/formats))
     * Hackathon
       ([write an article](https://github.com/tinymeetup/tinymeetup-docs/new/master/formats))
-* [Venues](./venues/index.md)
+* Venues
     * [How to find and reach out to a venue](./venues/how-to-find-venue.md)
-    * [List of potential venues in Moscow](./venues/venues-in-moscow.md)
     * [List of potential venues in Berlin](./venues/venues-in-berlin.md)
     * [Template: Proposal to a venue in
       Russian](./venues/venue-proposal-ru.md)
-* [Communicating with attendees](./comms-attendees/index.md)
+* Communicating with attendees
     * [Open-source meetup website
       template](https://github.com/tinymeetup/tinymeetup-web)
     * [Template: Event feedback form in
       Russian](https://docs.google.com/forms/d/e/1FAIpQLSffilekMFS4JHnmN1ja2Qz1MYnGVtZ8LcBJMu08BNnVtouwDA/viewform?c=0&w=1)
-* [Communicating with speakers](./comms-speakers/index.md)
+* Communicating with speakers
+    * How to encourage people to give a talk ([write an article](https://github.com/tinymeetup/tinymeetup-docs/new/master/comms-speakers))
 
 
 ### Information for speakers
 
-* [Preparing to speak](./speakers-prep/index.md)
+* Preparing to speak
+    * [Writing a talk proposal](./speakers-prep/talk-proposal.md)
     * [Slides checklist](./speakers-prep/slides-checklist.md)
